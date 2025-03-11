@@ -7,3 +7,8 @@ conda create --name schain python=3.9 -y
 ``` 
 conda activate schain 
 ```
+
+
+``` 
+pip install -r requirements.txt 
+```
